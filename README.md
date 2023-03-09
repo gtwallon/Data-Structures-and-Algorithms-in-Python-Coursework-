@@ -8,4 +8,5 @@ HW4: Polynomial class definition and use in recursive functions.
 HW5: Stack class application and animation.
 
 Lab2: Master Theorem practice and Sierpinski Triangle function.  
-Lab3: Code tracing and complexity analysis.
+Lab3: Code tracing and complexity analysis.  
+Lab5: Insertion Sort Algorithm and Animated Visualization 
