@@ -1,11 +1,11 @@
 # Data-Structures-and-Algorithms-in-Python-Coursework
 
-Here are some of the assignments I completed for my Data Structures and Algorithms in Python class. 
+Here are some of the assignments I completed for my Data Structures and Algorithms in Python class. **Please see HW13 for the work I am most proud of.**  
 
 HW2: Analysis of asymptotic behavior and Recursive functions  
 HW3: Binary search. Max-Subarray problem with exhausitve search, divide and conquer, and linear time solutions  
 HW4: Polynomial class definition and use in recursive functions  
-HW5: Stack class application and animation  
+HW5: Stacks: application and animation  
 HW6: Hash Table and Doubly Linked List  
 HW7: Binary Search Tree  
 HW8: Max Heaps: Implementing and Animation  
