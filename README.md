@@ -8,8 +8,12 @@ HW4: Polynomial class definition and use in recursive functions
 HW5: Stack class application and animation  
 HW6: Hash Table and Doubly Linked List  
 HW7: Binary Search Tree  
-HW12: Breadth-First and Depth-Frist Search Problems  
-HW13: Depth-First Search Application  
+HW8: Max Heaps: Implementing and Animation  
+HW9: Dynamic Programming: Search engine spelling correction application  
+HW10: Dynamic Programming: Driving routes application  
+HW11: Huffman Code data compression implementation   
+HW12: Breadth-First and Depth-Frist Search problems  
+HW13: Depth-First Search application: puzzle and animation  
 
 Lab2: Master Theorem practice and Sierpinski Triangle function.  
 Lab3: Code tracing and complexity analysis.  
