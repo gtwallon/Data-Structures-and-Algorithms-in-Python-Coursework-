@@ -17,7 +17,7 @@ HW13: Depth-First Search application: puzzle and animation
 
 Lab2: Master Theorem practice and Sierpinski Triangle function.  
 Lab3: Code tracing and complexity analysis.  
-Lab5: Insertion Sort Algorithm and Animated Visualization 
+Lab5: Insertion Sort Algorithm and Animated Visualization  
 Lab6: Quicksort algorithm  
 Lab7: Dynamic Programming: rod cutting problem  
 Lab8: Generators  
