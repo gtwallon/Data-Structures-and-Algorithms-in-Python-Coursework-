@@ -8,7 +8,7 @@ HW4: Polynomial class definition and use in recursive functions
 HW5: Stack class application and animation  
 HW6: Hash Table and Doubly Linked List  
 HW7: Binary Search Tree
-
+HW12: Breadth-First and Depth-Frist Search Problems
 HW13: Depth-First Search Application
 
 Lab2: Master Theorem practice and Sierpinski Triangle function.  
