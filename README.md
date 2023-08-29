@@ -35,12 +35,13 @@
 * Polynomial class definition and use in recursive functions  
 
 #### HW3: Binary search. 
-* Max-Subarray problem with exhausitve search, divide and conquer, and linear time solutions  
+* Max-Subarray problem with exhausitve search, divide and conquer, linear time solutions  
 
 #### HW2: Analysis of asymptotic behavior and Recursive functions  
 
+
 ## Labs
-Lab10: Connected componenets objects
+Lab10: Connected componenets objects  
 Lab8: Generators  
 Lab7: Dynamic Programming: rod cutting problem  
 Lab6: Quicksort algorithm  
