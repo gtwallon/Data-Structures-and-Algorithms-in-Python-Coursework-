@@ -1,5 +1,6 @@
 # Data-Structures-and-Algorithms-in-Python-Coursework
 
+## HW
 *Please see HW13 for the work I am most proud of.*
 
 #### HW13: Depth-First Search application: puzzle and animation
@@ -38,17 +39,11 @@
 
 #### HW2: Analysis of asymptotic behavior and Recursive functions  
 
-
-
-
- 
- 
- 
-
-Lab2: Master Theorem practice and Sierpinski Triangle function.  
-Lab3: Code tracing and complexity analysis.  
-Lab5: Insertion Sort Algorithm and Animated Visualization  
-Lab6: Quicksort algorithm  
-Lab7: Dynamic Programming: rod cutting problem  
-Lab8: Generators  
+## Labs
 Lab10: Connected componenets objects
+Lab8: Generators  
+Lab7: Dynamic Programming: rod cutting problem  
+Lab6: Quicksort algorithm  
+Lab5: Insertion Sort Algorithm and Animated Visualization  
+Lab3: Code tracing and complexity analysis.  
+Lab2: Master Theorem practice and Sierpinski Triangle function.  
