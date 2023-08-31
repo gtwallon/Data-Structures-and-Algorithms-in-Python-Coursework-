@@ -8,7 +8,7 @@
 
 #### HW12: Breadth-First and Depth-Frist Search problems
 * Used BFS to solve Lewis Caroll's "Doublets" word problem
-* Used DFS to find the shortest route from one point in 3D space to another, with path constraints
+* Used DFS to find a route between two points in a 3D array with constraints
 
 #### HW11: Huffman Code data compression implementation  
 * Implemented a priority queue using a ternary tree heap
