@@ -4,7 +4,7 @@
 *Please see HW13 for the work I am most proud of.*
 
 #### HW13: Depth-First Search application: puzzle and animation
-* Solved a puzzle involving a graph and constraints on the contents of the nodes
+* Solved a puzzle involving a graph and constraints on the contents of the nodes **(option 2)**
 
 #### HW12: Breadth-First and Depth-Frist Search problems
 * Used BFS to solve Lewis Caroll's "Doublets" word problem
