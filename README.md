@@ -1,10 +1,13 @@
 # Data-Structures-and-Algorithms-in-Python-Coursework
 
 ## HW
-*Please see HW13 for the work I am most proud of.*
+*Please see DFS_puzzle for the work I am most proud of.*
+
+#### DFS_puzzle and DFS_puzzle_animation - Depth-First Search application:
+* Implemented the DFS algorithm to solve a puzzle involving a graph and constraints on the contents of the nodes
 
 #### HW13: Depth-First Search application: puzzle and animation
-* Solved a puzzle involving a graph and constraints on the contents of the nodes **(option 2)**
+* Implemented the DFS algorithm to solve a puzzle involving a graph and constraints on the contents of the nodes
 
 #### HW12: Breadth-First and Depth-Frist Search problems
 * Used BFS to solve Lewis Caroll's "Doublets" word problem
